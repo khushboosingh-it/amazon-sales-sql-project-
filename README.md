@@ -52,10 +52,10 @@ amazon-sales-sql-powerbi-project/
 ## 📊 Dashboard Preview
 
 ### 🔹 Full Dashboard
-![Full Dashboard](screenshots/amazon_dashboard.png)
+![Full Dashboard](Screenshots/amazon_dashboard.png)
 
 ### 🔹 Key Insight (Region Analysis)
-![Focused Chart](screenshots/focused_chart.png)
+![Focused Chart](Screenshots/focused_chart.png)
 
 
 
