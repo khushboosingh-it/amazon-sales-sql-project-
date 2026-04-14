@@ -52,7 +52,7 @@ amazon-sales-sql-powerbi-project/
 ## 📊 Dashboard Preview
 
 ### 🔹 Full Dashboard
-![Full Dashboard](Screenshots/https://github.com/khushboosingh-it/amazon-sales-sql-project-/blob/main/Amazon%20full%20dashboard.png)
+![Full Dashboard](https://github.com/khushboosingh-it/amazon-sales-sql-project-/blob/main/Amazon%20full%20dashboard.png)
 
 ### 🔹 Key Insight (Region Analysis)
 ![Focused Chart](https://github.com/khushboosingh-it/amazon-sales-sql-project-/blob/main/Focused%20Chart.png)
